@@ -1,0 +1,13 @@
+{
+  "name": "lingma-test-repo",
+  "version": "1.0.0",
+  "description": "一个通过GitHub API创建的测试仓库",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["github-api", "test"],
+  "author": "Lingma",
+  "license": "MIT"
+}
